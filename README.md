@@ -9,3 +9,7 @@ The ultimate goal was to visualize the extracted data by showing the videos on a
 ## Is the project active?
 
 No, the project will no longer be updated.
+
+## Which folder should the videos be in?
+
+You will be allowed to put the videos in the folder /Source. This is located in the /src folder.
