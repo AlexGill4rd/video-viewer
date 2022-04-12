@@ -12,4 +12,4 @@ No, the project will no longer be updated.
 
 ## Which folder should the videos be in?
 
-You will be allowed to put the videos in the folder /Source. This is located in the /src folder.
+You will be allowed to put the videos in the folder /Sources. This is located in the /src folder.
