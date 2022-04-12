@@ -1,0 +1,15 @@
+@import '../../Styling/functions.scss';
+
+.background{
+    width: 100vw;
+    height: 100vh;
+
+    filter: blur(5px);
+    position: absolute;
+}
+.item-container{
+    width: 100%;
+    height: auto;
+    @include centerFlex(center, flex-start, row);
+    flex-wrap: wrap;
+}
